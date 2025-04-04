@@ -14,7 +14,7 @@ export function Section({ children, head }: SectionProps) {
   return (
     <section className="mt-16 mb-20">
       {head && (
-        <div className={"prose"}>
+        <div className={"prose mb-8"}>
           <h2>{head.title}</h2>
           <PrismicRichText field={head.text} />
         </div>
