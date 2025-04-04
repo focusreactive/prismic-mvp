@@ -1,2111 +1,2111 @@
 [
-	{
-		"__TYPE__": "SharedSliceContent",
-		"variation": "default",
-		"primary": {
-			"title": {
-				"__TYPE__": "FieldContent",
-				"type": "Text",
-				"value": "Modern Web Development Features Overview"
-			},
-			"text": {
-				"__TYPE__": "StructuredTextContent",
-				"value": [
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "A comprehensive guide to key features available in contemporary web development frameworks, with focus on performance metrics and implementation details.",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 64,
-									"end": 90
-								},
-								{
-									"type": "strong",
-									"start": 106,
-									"end": 125
-								},
-								{
-									"type": "strong",
-									"start": 130,
-									"end": 152
-								}
-							]
-						},
-						"direction": "ltr"
-					}
-				]
-			},
-			"table": {
-				"__TYPE__": "TableContent",
-				"content": [
-					{
-						"key": "88198a8c-d2c4-463a-be04-3f940f190d96",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "97ce93f7-4052-4d22-bae0-bbcd892bdc85",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Feature Name",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "f11fc351-6db1-4eea-a39d-5690f2f8ebcd",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Framework Support",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "afed8a40-b0ba-4d16-ba49-4c59041b2723",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Performance Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "619fad1e-8474-4524-9b99-d8cdd23fef50",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Implementation Complexity",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "8e0fba8a-fd51-4a24-bcc3-967c0fb0a543",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Use Case",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "372cd369-d549-4353-b20d-9c86b3132803",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "dc03138a-f547-4f4e-8e6a-2ddd1a8d595f",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Server Components",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "1dfda36f-eca2-46c5-a3be-f25203a7fd92",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Remix",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "7eefa4e4-9d8c-4e23-b85b-8769a4aae835",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "High Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "1efa91bd-9874-4dd0-a81a-91cc0ea4af5e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "c6ac889f-9c39-420e-8274-dad1618db1ef",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Dynamic Content",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "c9a92997-56a8-4718-adce-d6538486b3a3",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "97442c06-5dc9-4fbf-a315-55e732f222e7",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Edge Runtime",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "c36f9d6d-4a75-4097-9d4b-a7e7ef3396b9",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Vercel",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "40f8c4c0-6c46-452c-b81a-b306e058e631",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Very High",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "1a261410-5802-4ffa-b4a0-b375e8d78398",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Complex",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "fc3161a3-9a19-4faf-8b6a-6ffc7ae382e7",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Global Deployment",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "71123450-16b2-4c4b-8648-9476b759ad75",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "0e6ec7f3-cfaa-42d2-bf07-1e9171349635",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Static Export",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "96294cea-bd48-4aad-b56a-6d478a28c7a3",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "All React-based",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "defa96a9-7f0b-4abd-8920-4d42e826d0ea",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Excellent",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "70380d73-afec-4cad-a92d-32e26cce6e5a",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "6fe1ae37-d6b7-4076-8009-07cec3e954a6",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Static Websites",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "331b7f9a-8c70-49ec-a9a0-17a27c41fdfc",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "210ceeef-1a2b-4841-9d8c-e255e2a8b4c8",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "ISR Revalidation",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "275a1490-3851-4f9b-88c4-adcdac7b1473",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Gatsby",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "3e955018-05c0-4ef4-86fe-82955a9a719e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "High Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "ac0d7b6c-b030-4b77-a407-75f99ac5e495",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "6c1f165a-337f-4f4e-b353-7ef6d8ac2e4d",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "E-commerce",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "7ebaff32-6a5f-404a-a957-af12af4c9351",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "ecffd3ce-6665-4aa0-aebe-4e4cfb1c217b",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Middleware Auth",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "cca67422-affc-4799-9214-c815de64a8b5",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Express",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "8fe45dc1-3074-4055-9f03-7bf2e35eb1a1",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "b0ab9ff8-6f52-4c1c-8f69-05aa1ba417bf",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Complex",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "73dee796-f7d4-4aca-b1e3-dc402488d48c",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "User Security",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "831f99b3-4cb0-4c57-b3a7-f6764ea435ac",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "d1b78dd1-6044-425a-96ce-ef78dc09d0ce",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "API Routes",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "161ba0a9-9adf-4cc4-952a-51fdc45068d3",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Most Frameworks",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "96a34126-5589-458e-97c8-cbdd441ac30d",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Low Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "f85e63b9-81dc-4fe2-b99b-c51ce5347e27",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "71ebf512-dc0a-45da-9788-93d70b3b954a",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Backend Logic",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "48460ec9-efcd-47ff-8424-719fcf9ecaff",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "d7606fd7-baa7-4c82-8815-359b464a4f56",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Image Optimization",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "88a111ea-c0d5-41fa-a743-1c6043c1793e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Gatsby",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "75c678af-98d9-4d0e-b2cd-5b766a9bcaf9",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "High Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "fb1a076c-4bef-4333-ac72-950d84f3ab29",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "a60977f1-0d61-4463-9aa1-906e7b0bfa75",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Media Heavy",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "c556312e-4bb6-4690-9830-5499fb1b5437",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "44207894-cd31-4147-bf19-b8e1bc56a4bd",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Route Handlers",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "f432cf84-3464-4d07-a0cf-31f00af93328",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js 13+",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "b58b3140-1ae9-4970-8f8c-01f96ec58865",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "4a73843e-6d3c-4009-a17d-a643fb694f04",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "9fe60b73-065d-4fce-bafd-cd8bd43bf5ae",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "API Creation",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "c1b4531a-1a2d-4776-a4c9-10f119a70d2e",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "b1c7d0ee-7ec7-46b1-bbc2-a2bf72a63b7e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Streaming SSR",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "08d5c46d-7f5b-45e8-94a5-e5c22d6597f8",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Modern Frameworks",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "b5b03a07-2f18-44ec-a172-e37eb555ee01",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Very High",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "e9dd1256-7853-4813-8eb7-cdfad2b070a2",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Complex",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "d0f5fbf4-aa49-4d56-980d-18e92f7a1709",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Real-time Data",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "358d084a-f767-4b94-b3f7-cc30759fa69f",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "f16d38b7-6599-4eeb-b633-a5a8952146c3",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Zero Config",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "d543c9fa-9a11-49ce-a26c-c58e1e283809",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Vite",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "48d44507-316a-42db-bee8-26e1c2980870",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "17396a1c-ec8c-4c1b-a6aa-f306603f3248",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "92a2b02a-9c36-49d8-badb-b7ca82918e34",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Quick Start",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					}
-				]
-			},
-			"mode": {
-				"__TYPE__": "FieldContent",
-				"value": "wrap",
-				"type": "Select"
-			}
-		},
-		"items": []
-	},
-	{
-		"__TYPE__": "SharedSliceContent",
-		"variation": "nowrap",
-		"primary": {
-			"title": {
-				"__TYPE__": "FieldContent",
-				"type": "Text",
-				"value": "Modern Web Development Features Overview"
-			},
-			"text": {
-				"__TYPE__": "StructuredTextContent",
-				"value": [
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "A comprehensive guide to key features available in contemporary web development frameworks, with focus on performance metrics and implementation details.",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 64,
-									"end": 90
-								},
-								{
-									"type": "strong",
-									"start": 106,
-									"end": 125
-								},
-								{
-									"type": "strong",
-									"start": 130,
-									"end": 152
-								}
-							]
-						},
-						"direction": "ltr"
-					}
-				]
-			},
-			"table": {
-				"__TYPE__": "TableContent",
-				"content": [
-					{
-						"key": "34a2f40d-9f13-4697-8ee7-0a45d27cd684",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "97ce93f7-4052-4d22-bae0-bbcd892bdc85",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Feature Name",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "f11fc351-6db1-4eea-a39d-5690f2f8ebcd",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Framework Support",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "afed8a40-b0ba-4d16-ba49-4c59041b2723",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Performance Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "619fad1e-8474-4524-9b99-d8cdd23fef50",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Implementation Complexity",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "8e0fba8a-fd51-4a24-bcc3-967c0fb0a543",
-								"type": "tableHeader",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Use Case",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "224428d0-76b1-43f5-87af-62134f4049fe",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "dc03138a-f547-4f4e-8e6a-2ddd1a8d595f",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Server Components",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "1dfda36f-eca2-46c5-a3be-f25203a7fd92",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Remix",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "7eefa4e4-9d8c-4e23-b85b-8769a4aae835",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "High Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "1efa91bd-9874-4dd0-a81a-91cc0ea4af5e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "c6ac889f-9c39-420e-8274-dad1618db1ef",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Dynamic Content",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "e4d349cc-5ac8-4921-b22f-4decead48b1c",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "97442c06-5dc9-4fbf-a315-55e732f222e7",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Edge Runtime",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "c36f9d6d-4a75-4097-9d4b-a7e7ef3396b9",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Vercel",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "40f8c4c0-6c46-452c-b81a-b306e058e631",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Very High",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "1a261410-5802-4ffa-b4a0-b375e8d78398",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Complex",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "fc3161a3-9a19-4faf-8b6a-6ffc7ae382e7",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Global Deployment",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "d462365f-30c2-46ab-8074-40f12f9ea8d2",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "0e6ec7f3-cfaa-42d2-bf07-1e9171349635",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Static Export",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "96294cea-bd48-4aad-b56a-6d478a28c7a3",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "All React-based",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "defa96a9-7f0b-4abd-8920-4d42e826d0ea",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Excellent",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "70380d73-afec-4cad-a92d-32e26cce6e5a",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "6fe1ae37-d6b7-4076-8009-07cec3e954a6",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Static Websites",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "6f364af8-ac95-4921-9697-79c82fda0efd",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "210ceeef-1a2b-4841-9d8c-e255e2a8b4c8",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "ISR Revalidation",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "275a1490-3851-4f9b-88c4-adcdac7b1473",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Gatsby",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "3e955018-05c0-4ef4-86fe-82955a9a719e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "High Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "ac0d7b6c-b030-4b77-a407-75f99ac5e495",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "6c1f165a-337f-4f4e-b353-7ef6d8ac2e4d",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "E-commerce",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "c8b44f98-c86b-4982-b99d-55a418127d05",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "ecffd3ce-6665-4aa0-aebe-4e4cfb1c217b",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Middleware Auth",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "cca67422-affc-4799-9214-c815de64a8b5",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Express",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "8fe45dc1-3074-4055-9f03-7bf2e35eb1a1",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "b0ab9ff8-6f52-4c1c-8f69-05aa1ba417bf",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Complex",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "73dee796-f7d4-4aca-b1e3-dc402488d48c",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "User Security",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "f6ded83c-a53d-4f63-9ff9-d12bd49b1de4",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "d1b78dd1-6044-425a-96ce-ef78dc09d0ce",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "API Routes",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "161ba0a9-9adf-4cc4-952a-51fdc45068d3",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Most Frameworks",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "96a34126-5589-458e-97c8-cbdd441ac30d",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Low Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "f85e63b9-81dc-4fe2-b99b-c51ce5347e27",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "71ebf512-dc0a-45da-9788-93d70b3b954a",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Backend Logic",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "6d692aa0-8476-47c2-a977-28022ad38581",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "d7606fd7-baa7-4c82-8815-359b464a4f56",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Image Optimization",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "88a111ea-c0d5-41fa-a743-1c6043c1793e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Gatsby",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "75c678af-98d9-4d0e-b2cd-5b766a9bcaf9",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "High Impact",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "fb1a076c-4bef-4333-ac72-950d84f3ab29",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "a60977f1-0d61-4463-9aa1-906e7b0bfa75",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Media Heavy",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "ed0b7855-0762-4391-975a-9331bda4f2c5",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "44207894-cd31-4147-bf19-b8e1bc56a4bd",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Route Handlers",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "f432cf84-3464-4d07-a0cf-31f00af93328",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js 13+",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "b58b3140-1ae9-4970-8f8c-01f96ec58865",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "4a73843e-6d3c-4009-a17d-a643fb694f04",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "9fe60b73-065d-4fce-bafd-cd8bd43bf5ae",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "API Creation",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "f12c769b-e748-4fe6-a17f-4114e32eae64",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "b1c7d0ee-7ec7-46b1-bbc2-a2bf72a63b7e",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Streaming SSR",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "08d5c46d-7f5b-45e8-94a5-e5c22d6597f8",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Modern Frameworks",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "b5b03a07-2f18-44ec-a172-e37eb555ee01",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Very High",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "e9dd1256-7853-4813-8eb7-cdfad2b070a2",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Complex",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "d0f5fbf4-aa49-4d56-980d-18e92f7a1709",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Real-time Data",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					},
-					{
-						"key": "3df6d351-d4e5-4940-b422-04bccb0477aa",
-						"type": "tableRow",
-						"content": [
-							{
-								"key": "f16d38b7-6599-4eeb-b633-a5a8952146c3",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Zero Config",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "d543c9fa-9a11-49ce-a26c-c58e1e283809",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Next.js, Vite",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "48d44507-316a-42db-bee8-26e1c2980870",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Medium",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "17396a1c-ec8c-4c1b-a6aa-f306603f3248",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Simple",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							},
-							{
-								"key": "92a2b02a-9c36-49d8-badb-b7ca82918e34",
-								"type": "tableCell",
-								"content": {
-									"__TYPE__": "StructuredTextContent",
-									"value": [
-										{
-											"type": "paragraph",
-											"content": {
-												"text": "Quick Start",
-												"spans": []
-											},
-											"direction": "ltr"
-										}
-									]
-								}
-							}
-						]
-					}
-				]
-			},
-			"mode": {
-				"__TYPE__": "FieldContent",
-				"value": "nowrap",
-				"type": "Select"
-			}
-		},
-		"items": [
-			{
-				"__TYPE__": "GroupItemContent",
-				"value": []
-			}
-		]
-	}
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Modern Web Development Features Overview"
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "A comprehensive guide to key features available in contemporary web development frameworks, with focus on performance metrics and implementation details.",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 64,
+                  "end": 90
+                },
+                {
+                  "type": "strong",
+                  "start": 106,
+                  "end": 125
+                },
+                {
+                  "type": "strong",
+                  "start": 130,
+                  "end": 152
+                }
+              ]
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "table": {
+        "__TYPE__": "TableContent",
+        "content": [
+          {
+            "key": "88198a8c-d2c4-463a-be04-3f940f190d96",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "97ce93f7-4052-4d22-bae0-bbcd892bdc85",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Feature Name",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "f11fc351-6db1-4eea-a39d-5690f2f8ebcd",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Framework Support",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "afed8a40-b0ba-4d16-ba49-4c59041b2723",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Performance Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "619fad1e-8474-4524-9b99-d8cdd23fef50",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Implementation Complexity",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "8e0fba8a-fd51-4a24-bcc3-967c0fb0a543",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Use Case",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "372cd369-d549-4353-b20d-9c86b3132803",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "dc03138a-f547-4f4e-8e6a-2ddd1a8d595f",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Server Components",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "1dfda36f-eca2-46c5-a3be-f25203a7fd92",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Remix",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "7eefa4e4-9d8c-4e23-b85b-8769a4aae835",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "High Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "1efa91bd-9874-4dd0-a81a-91cc0ea4af5e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "c6ac889f-9c39-420e-8274-dad1618db1ef",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Dynamic Content",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "c9a92997-56a8-4718-adce-d6538486b3a3",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "97442c06-5dc9-4fbf-a315-55e732f222e7",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Edge Runtime",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "c36f9d6d-4a75-4097-9d4b-a7e7ef3396b9",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Vercel",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "40f8c4c0-6c46-452c-b81a-b306e058e631",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Very High",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "1a261410-5802-4ffa-b4a0-b375e8d78398",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Complex",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "fc3161a3-9a19-4faf-8b6a-6ffc7ae382e7",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Global Deployment",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "71123450-16b2-4c4b-8648-9476b759ad75",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "0e6ec7f3-cfaa-42d2-bf07-1e9171349635",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Static Export",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "96294cea-bd48-4aad-b56a-6d478a28c7a3",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "All React-based",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "defa96a9-7f0b-4abd-8920-4d42e826d0ea",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Excellent",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "70380d73-afec-4cad-a92d-32e26cce6e5a",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "6fe1ae37-d6b7-4076-8009-07cec3e954a6",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Static Websites",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "331b7f9a-8c70-49ec-a9a0-17a27c41fdfc",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "210ceeef-1a2b-4841-9d8c-e255e2a8b4c8",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "ISR Revalidation",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "275a1490-3851-4f9b-88c4-adcdac7b1473",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Gatsby",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "3e955018-05c0-4ef4-86fe-82955a9a719e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "High Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "ac0d7b6c-b030-4b77-a407-75f99ac5e495",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "6c1f165a-337f-4f4e-b353-7ef6d8ac2e4d",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "E-commerce",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "7ebaff32-6a5f-404a-a957-af12af4c9351",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "ecffd3ce-6665-4aa0-aebe-4e4cfb1c217b",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Middleware Auth",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "cca67422-affc-4799-9214-c815de64a8b5",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Express",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "8fe45dc1-3074-4055-9f03-7bf2e35eb1a1",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "b0ab9ff8-6f52-4c1c-8f69-05aa1ba417bf",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Complex",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "73dee796-f7d4-4aca-b1e3-dc402488d48c",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "User Security",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "831f99b3-4cb0-4c57-b3a7-f6764ea435ac",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "d1b78dd1-6044-425a-96ce-ef78dc09d0ce",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "API Routes",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "161ba0a9-9adf-4cc4-952a-51fdc45068d3",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Most Frameworks",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "96a34126-5589-458e-97c8-cbdd441ac30d",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Low Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "f85e63b9-81dc-4fe2-b99b-c51ce5347e27",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "71ebf512-dc0a-45da-9788-93d70b3b954a",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Backend Logic",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "48460ec9-efcd-47ff-8424-719fcf9ecaff",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "d7606fd7-baa7-4c82-8815-359b464a4f56",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Image Optimization",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "88a111ea-c0d5-41fa-a743-1c6043c1793e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Gatsby",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "75c678af-98d9-4d0e-b2cd-5b766a9bcaf9",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "High Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "fb1a076c-4bef-4333-ac72-950d84f3ab29",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "a60977f1-0d61-4463-9aa1-906e7b0bfa75",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Media Heavy",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "c556312e-4bb6-4690-9830-5499fb1b5437",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "44207894-cd31-4147-bf19-b8e1bc56a4bd",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Route Handlers",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "f432cf84-3464-4d07-a0cf-31f00af93328",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js 13+",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "b58b3140-1ae9-4970-8f8c-01f96ec58865",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "4a73843e-6d3c-4009-a17d-a643fb694f04",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "9fe60b73-065d-4fce-bafd-cd8bd43bf5ae",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "API Creation",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "c1b4531a-1a2d-4776-a4c9-10f119a70d2e",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "b1c7d0ee-7ec7-46b1-bbc2-a2bf72a63b7e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Streaming SSR",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "08d5c46d-7f5b-45e8-94a5-e5c22d6597f8",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Modern Frameworks",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "b5b03a07-2f18-44ec-a172-e37eb555ee01",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Very High",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "e9dd1256-7853-4813-8eb7-cdfad2b070a2",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Complex",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "d0f5fbf4-aa49-4d56-980d-18e92f7a1709",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Real-time Data",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "358d084a-f767-4b94-b3f7-cc30759fa69f",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "f16d38b7-6599-4eeb-b633-a5a8952146c3",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Zero Config",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "d543c9fa-9a11-49ce-a26c-c58e1e283809",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Vite",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "48d44507-316a-42db-bee8-26e1c2980870",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "17396a1c-ec8c-4c1b-a6aa-f306603f3248",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "92a2b02a-9c36-49d8-badb-b7ca82918e34",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Quick Start",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "mode": {
+        "__TYPE__": "FieldContent",
+        "value": "wrap",
+        "type": "Select"
+      }
+    },
+    "items": []
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "nowrap",
+    "primary": {
+      "title": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Modern Web Development Features Overview"
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "A comprehensive guide to key features available in contemporary web development frameworks, with focus on performance metrics and implementation details.",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 64,
+                  "end": 90
+                },
+                {
+                  "type": "strong",
+                  "start": 106,
+                  "end": 125
+                },
+                {
+                  "type": "strong",
+                  "start": 130,
+                  "end": 152
+                }
+              ]
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "table": {
+        "__TYPE__": "TableContent",
+        "content": [
+          {
+            "key": "34a2f40d-9f13-4697-8ee7-0a45d27cd684",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "97ce93f7-4052-4d22-bae0-bbcd892bdc85",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Feature Name",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "f11fc351-6db1-4eea-a39d-5690f2f8ebcd",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Framework Support",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "afed8a40-b0ba-4d16-ba49-4c59041b2723",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Performance Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "619fad1e-8474-4524-9b99-d8cdd23fef50",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Implementation Complexity",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "8e0fba8a-fd51-4a24-bcc3-967c0fb0a543",
+                "type": "tableHeader",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Use Case",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "224428d0-76b1-43f5-87af-62134f4049fe",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "dc03138a-f547-4f4e-8e6a-2ddd1a8d595f",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Server Components",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "1dfda36f-eca2-46c5-a3be-f25203a7fd92",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Remix",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "7eefa4e4-9d8c-4e23-b85b-8769a4aae835",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "High Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "1efa91bd-9874-4dd0-a81a-91cc0ea4af5e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "c6ac889f-9c39-420e-8274-dad1618db1ef",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Dynamic Content",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "e4d349cc-5ac8-4921-b22f-4decead48b1c",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "97442c06-5dc9-4fbf-a315-55e732f222e7",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Edge Runtime",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "c36f9d6d-4a75-4097-9d4b-a7e7ef3396b9",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Vercel",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "40f8c4c0-6c46-452c-b81a-b306e058e631",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Very High",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "1a261410-5802-4ffa-b4a0-b375e8d78398",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Complex",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "fc3161a3-9a19-4faf-8b6a-6ffc7ae382e7",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Global Deployment",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "d462365f-30c2-46ab-8074-40f12f9ea8d2",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "0e6ec7f3-cfaa-42d2-bf07-1e9171349635",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Static Export",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "96294cea-bd48-4aad-b56a-6d478a28c7a3",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "All React-based",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "defa96a9-7f0b-4abd-8920-4d42e826d0ea",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Excellent",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "70380d73-afec-4cad-a92d-32e26cce6e5a",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "6fe1ae37-d6b7-4076-8009-07cec3e954a6",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Static Websites",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "6f364af8-ac95-4921-9697-79c82fda0efd",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "210ceeef-1a2b-4841-9d8c-e255e2a8b4c8",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "ISR Revalidation",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "275a1490-3851-4f9b-88c4-adcdac7b1473",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Gatsby",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "3e955018-05c0-4ef4-86fe-82955a9a719e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "High Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "ac0d7b6c-b030-4b77-a407-75f99ac5e495",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "6c1f165a-337f-4f4e-b353-7ef6d8ac2e4d",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "E-commerce",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "c8b44f98-c86b-4982-b99d-55a418127d05",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "ecffd3ce-6665-4aa0-aebe-4e4cfb1c217b",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Middleware Auth",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "cca67422-affc-4799-9214-c815de64a8b5",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Express",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "8fe45dc1-3074-4055-9f03-7bf2e35eb1a1",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "b0ab9ff8-6f52-4c1c-8f69-05aa1ba417bf",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Complex",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "73dee796-f7d4-4aca-b1e3-dc402488d48c",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "User Security",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "f6ded83c-a53d-4f63-9ff9-d12bd49b1de4",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "d1b78dd1-6044-425a-96ce-ef78dc09d0ce",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "API Routes",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "161ba0a9-9adf-4cc4-952a-51fdc45068d3",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Most Frameworks",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "96a34126-5589-458e-97c8-cbdd441ac30d",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Low Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "f85e63b9-81dc-4fe2-b99b-c51ce5347e27",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "71ebf512-dc0a-45da-9788-93d70b3b954a",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Backend Logic",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "6d692aa0-8476-47c2-a977-28022ad38581",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "d7606fd7-baa7-4c82-8815-359b464a4f56",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Image Optimization",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "88a111ea-c0d5-41fa-a743-1c6043c1793e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Gatsby",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "75c678af-98d9-4d0e-b2cd-5b766a9bcaf9",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "High Impact",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "fb1a076c-4bef-4333-ac72-950d84f3ab29",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "a60977f1-0d61-4463-9aa1-906e7b0bfa75",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Media Heavy",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "ed0b7855-0762-4391-975a-9331bda4f2c5",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "44207894-cd31-4147-bf19-b8e1bc56a4bd",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Route Handlers",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "f432cf84-3464-4d07-a0cf-31f00af93328",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js 13+",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "b58b3140-1ae9-4970-8f8c-01f96ec58865",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "4a73843e-6d3c-4009-a17d-a643fb694f04",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "9fe60b73-065d-4fce-bafd-cd8bd43bf5ae",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "API Creation",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "f12c769b-e748-4fe6-a17f-4114e32eae64",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "b1c7d0ee-7ec7-46b1-bbc2-a2bf72a63b7e",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Streaming SSR",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "08d5c46d-7f5b-45e8-94a5-e5c22d6597f8",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Modern Frameworks",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "b5b03a07-2f18-44ec-a172-e37eb555ee01",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Very High",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "e9dd1256-7853-4813-8eb7-cdfad2b070a2",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Complex",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "d0f5fbf4-aa49-4d56-980d-18e92f7a1709",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Real-time Data",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "key": "3df6d351-d4e5-4940-b422-04bccb0477aa",
+            "type": "tableRow",
+            "content": [
+              {
+                "key": "f16d38b7-6599-4eeb-b633-a5a8952146c3",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Zero Config",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "d543c9fa-9a11-49ce-a26c-c58e1e283809",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Next.js, Vite",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "48d44507-316a-42db-bee8-26e1c2980870",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Medium",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "17396a1c-ec8c-4c1b-a6aa-f306603f3248",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Simple",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "92a2b02a-9c36-49d8-badb-b7ca82918e34",
+                "type": "tableCell",
+                "content": {
+                  "__TYPE__": "StructuredTextContent",
+                  "value": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Quick Start",
+                        "spans": []
+                      },
+                      "direction": "ltr"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "mode": {
+        "__TYPE__": "FieldContent",
+        "value": "nowrap",
+        "type": "Select"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
 ]

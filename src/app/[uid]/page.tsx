@@ -15,22 +15,16 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   const { uid } = await params;
   const client = createClient();
   const page = await client.getByUID("page", uid).catch(() => notFound());
-
-  // const header = page.data.header
-  //   ? await client.getByID(page.data.header.id)
-  //   : await client.getSingle("header");
-  //
-  // const footer = page.data.footer
-  //   ? await client.getByID(page.data.footer.id)
-  //   : await client.getSingle("footer");
+  const header = await client.getSingle("header");
+  const footer = await client.getSingle("footer");
 
   return (
     <>
-      {/*<Header data={header.data} />*/}
+      <Header data={header.data} />
       <main>
         <SliceZone slices={page.data.slices} components={components} />
       </main>
-      {/*<Footer data={footer.data} />*/}
+      <Footer data={footer.data} />
     </>
   );
 }

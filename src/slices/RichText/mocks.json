@@ -1,415 +1,415 @@
 [
-	{
-		"__TYPE__": "SharedSliceContent",
-		"variation": "default",
-		"primary": {
-			"content": {
-				"__TYPE__": "StructuredTextContent",
-				"value": [
-					{
-						"type": "heading1",
-						"content": {
-							"text": "Living a Healthy Lifestyle",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Maintaining a healthy lifestyle doesn't have to be complicated. Here are some essential tips and guidelines to help you on your wellness journey.",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 12,
-									"end": 31
-								},
-								{
-									"type": "strong",
-									"start": 88,
-									"end": 92
-								},
-								{
-									"type": "strong",
-									"start": 97,
-									"end": 107
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "heading2",
-						"content": {
-							"text": "Daily Habits Matter",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Creating sustainable habits is the key to long-term health. Start with small changes and gradually build up to bigger ones. Remember, consistency is more important than perfection.",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 42,
-									"end": 58
-								},
-								{
-									"type": "strong",
-									"start": 134,
-									"end": 145
-								},
-								{
-									"type": "strong",
-									"start": 169,
-									"end": 179
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "heading3",
-						"content": {
-							"text": "Nutrition Basics",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "A balanced diet is fundamental to good health. Consider these principles:",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "list-item",
-						"content": {
-							"text": "Eat plenty of colorful fruits and vegetables",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "list-item",
-						"content": {
-							"text": "Choose whole grains over refined carbohydrates",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "list-item",
-						"content": {
-							"text": "Include lean proteins in your meals",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Stay hydrated by drinking water throughout the day",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "heading3",
-						"content": {
-							"text": "Physical Activity",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Regular exercise is crucial for both physical and mental well-being:",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "o-list-item",
-						"content": {
-							"text": "Aim for 30 minutes of moderate activity daily",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "o-list-item",
-						"content": {
-							"text": "Mix cardio with strength training",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "o-list-item",
-						"content": {
-							"text": "Include flexibility exercises",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "o-list-item",
-						"content": {
-							"text": "Take regular breaks from sitting",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Important Note: Always consult with your healthcare provider before starting a new exercise routine.",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 0,
-									"end": 15
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "heading3",
-						"content": {
-							"text": "Sleep and Recovery",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Quality sleep is essential for:",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "list-item",
-						"content": {
-							"text": "Physical recovery",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "list-item",
-						"content": {
-							"text": "Mental clarity",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "list-item",
-						"content": {
-							"text": "Immune system function",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "list-item",
-						"content": {
-							"text": "Emotional well-being",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Try to maintain a consistent sleep schedule and create a relaxing bedtime routine.",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "heading2",
-						"content": {
-							"text": "Stress Management",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Managing stress is just as important as diet and exercise. Consider these techniques:",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "1. Meditation: Practice mindfulness for 10 minutes daily",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 3,
-									"end": 13
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "2. Deep Breathing: Use the 4-7-8 breathing technique",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 3,
-									"end": 17
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "3. Nature Time: Spend time outdoors regularly",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 3,
-									"end": 14
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "4. Social Connections: Maintain relationships with family and friends",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 3,
-									"end": 21
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "heading3",
-						"content": {
-							"text": "Additional Resources",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "For more information, you can:",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "- Join local wellness groups",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "- Consult with health professionals",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "- Read reliable health publications",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "- Participate in community fitness events",
-							"spans": []
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Remember that wellness is a journey, not a destination. Make choices that work for your lifestyle and adjust as needed.",
-							"spans": [
-								{
-									"type": "em",
-									"start": 0,
-									"end": 119
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Need help getting started? Contact our wellness team at support@example.com",
-							"spans": [
-								{
-									"type": "strong",
-									"start": 0,
-									"end": 75
-								},
-								{
-									"type": "hyperlink",
-									"start": 56,
-									"end": 75,
-									"data": {
-										"__TYPE__": "ExternalLink",
-										"url": "mailto:support@example.com",
-										"target": "_self"
-									}
-								}
-							]
-						},
-						"direction": "ltr"
-					},
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "",
-							"spans": []
-						},
-						"direction": "ltr"
-					}
-				]
-			}
-		},
-		"items": [
-			{
-				"__TYPE__": "GroupItemContent",
-				"value": []
-			}
-		]
-	}
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "content": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Living a Healthy Lifestyle",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Maintaining a healthy lifestyle doesn't have to be complicated. Here are some essential tips and guidelines to help you on your wellness journey.",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 12,
+                  "end": 31
+                },
+                {
+                  "type": "strong",
+                  "start": 88,
+                  "end": 92
+                },
+                {
+                  "type": "strong",
+                  "start": 97,
+                  "end": 107
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Daily Habits Matter",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Creating sustainable habits is the key to long-term health. Start with small changes and gradually build up to bigger ones. Remember, consistency is more important than perfection.",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 42,
+                  "end": 58
+                },
+                {
+                  "type": "strong",
+                  "start": 134,
+                  "end": 145
+                },
+                {
+                  "type": "strong",
+                  "start": 169,
+                  "end": 179
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "heading3",
+            "content": {
+              "text": "Nutrition Basics",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "A balanced diet is fundamental to good health. Consider these principles:",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "content": {
+              "text": "Eat plenty of colorful fruits and vegetables",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "content": {
+              "text": "Choose whole grains over refined carbohydrates",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "content": {
+              "text": "Include lean proteins in your meals",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Stay hydrated by drinking water throughout the day",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "heading3",
+            "content": {
+              "text": "Physical Activity",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Regular exercise is crucial for both physical and mental well-being:",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "o-list-item",
+            "content": {
+              "text": "Aim for 30 minutes of moderate activity daily",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "o-list-item",
+            "content": {
+              "text": "Mix cardio with strength training",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "o-list-item",
+            "content": {
+              "text": "Include flexibility exercises",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "o-list-item",
+            "content": {
+              "text": "Take regular breaks from sitting",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Important Note: Always consult with your healthcare provider before starting a new exercise routine.",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 0,
+                  "end": 15
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "heading3",
+            "content": {
+              "text": "Sleep and Recovery",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Quality sleep is essential for:",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "content": {
+              "text": "Physical recovery",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "content": {
+              "text": "Mental clarity",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "content": {
+              "text": "Immune system function",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "list-item",
+            "content": {
+              "text": "Emotional well-being",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Try to maintain a consistent sleep schedule and create a relaxing bedtime routine.",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Stress Management",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Managing stress is just as important as diet and exercise. Consider these techniques:",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "1. Meditation: Practice mindfulness for 10 minutes daily",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 3,
+                  "end": 13
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "2. Deep Breathing: Use the 4-7-8 breathing technique",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 3,
+                  "end": 17
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "3. Nature Time: Spend time outdoors regularly",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 3,
+                  "end": 14
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "4. Social Connections: Maintain relationships with family and friends",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 3,
+                  "end": 21
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "heading3",
+            "content": {
+              "text": "Additional Resources",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "For more information, you can:",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "- Join local wellness groups",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "- Consult with health professionals",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "- Read reliable health publications",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "- Participate in community fitness events",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Remember that wellness is a journey, not a destination. Make choices that work for your lifestyle and adjust as needed.",
+              "spans": [
+                {
+                  "type": "em",
+                  "start": 0,
+                  "end": 119
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Need help getting started? Contact our wellness team at support@example.com",
+              "spans": [
+                {
+                  "type": "strong",
+                  "start": 0,
+                  "end": 75
+                },
+                {
+                  "type": "hyperlink",
+                  "start": 56,
+                  "end": 75,
+                  "data": {
+                    "__TYPE__": "ExternalLink",
+                    "url": "mailto:support@example.com",
+                    "target": "_self"
+                  }
+                }
+              ]
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
 ]

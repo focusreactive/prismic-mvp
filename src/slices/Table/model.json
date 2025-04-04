@@ -39,10 +39,7 @@
           "config": {
             "label": "Mode",
             "placeholder": "",
-            "options": [
-              "wrap",
-              "nowrap"
-            ],
+            "options": ["wrap", "nowrap"],
             "default_value": "wrap"
           }
         }
@@ -84,10 +81,7 @@
           "config": {
             "label": "Mode",
             "placeholder": "",
-            "options": [
-              "wrap",
-              "nowrap"
-            ],
+            "options": ["wrap", "nowrap"],
             "default_value": "wrap"
           }
         }
