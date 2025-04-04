@@ -17,10 +17,7 @@
           "config": {
             "label": "Type",
             "placeholder": "",
-            "options": [
-              "single",
-              "multiple"
-            ],
+            "options": ["single", "multiple"],
             "default_value": "single"
           }
         },
@@ -59,7 +56,8 @@
                   "label": "Content",
                   "placeholder": "",
                   "allowTargetBlank": true,
-                  "multi": "paragraph,preformatted,strong,em,hyperlink,embed,list-item,o-list-item"
+                  "multi": "paragraph,preformatted,strong,em,hyperlink,embed,list-item,o-list-item",
+                  "labels": ["codespan"]
                 }
               }
             }
