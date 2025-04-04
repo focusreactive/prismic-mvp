@@ -14,12 +14,19 @@
         }
       },
       "title": {
-        "type": "StructuredText",
+        "type": "Text",
         "config": {
           "label": "Title",
-          "placeholder": "",
-          "allowTargetBlank": true,
-          "single": "heading1"
+          "placeholder": ""
+        }
+      },
+      "header": {
+        "type": "Link",
+        "config": {
+          "label": "Header",
+          "select": "document",
+          "repeat": false,
+          "customtypes": ["header"]
         }
       },
       "slices": {
