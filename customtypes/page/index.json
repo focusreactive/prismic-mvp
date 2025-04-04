@@ -29,6 +29,15 @@
           "customtypes": ["header"]
         }
       },
+      "footer": {
+        "type": "Link",
+        "config": {
+          "label": "Footer",
+          "select": "document",
+          "repeat": false,
+          "customtypes": ["footer"]
+        }
+      },
       "slices": {
         "type": "Slices",
         "fieldset": "Slice Zone",

@@ -6,6 +6,8 @@ import { SliceZone } from "@prismicio/react";
 
 import { createClient } from "@/prismicio";
 import { components } from "@/slices";
+import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
 
 type Params = { uid: string };
 
@@ -14,8 +16,23 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   const client = createClient();
   const page = await client.getByUID("page", uid).catch(() => notFound());
 
-  // <SliceZone> renders the page's slices.
-  return <SliceZone slices={page.data.slices} components={components} />;
+  // const header = page.data.header
+  //   ? await client.getByID(page.data.header.id)
+  //   : await client.getSingle("header");
+  //
+  // const footer = page.data.footer
+  //   ? await client.getByID(page.data.footer.id)
+  //   : await client.getSingle("footer");
+
+  return (
+    <>
+      {/*<Header data={header.data} />*/}
+      <main>
+        <SliceZone slices={page.data.slices} components={components} />
+      </main>
+      {/*<Footer data={footer.data} />*/}
+    </>
+  );
 }
 
 export async function generateMetadata({
