@@ -6,7 +6,7 @@ import { revalidateTag } from "next/cache";
  * content is published in Prismic.
  */
 export async function POST(request: Request) {
-  const {secret} = await request.json();
+  const { secret } = await request.json();
 
   if (secret !== process.env.REVALIDATE_TOKEN) {
     return NextResponse.json({ error: "Invalid secret" }, { status: 401 });

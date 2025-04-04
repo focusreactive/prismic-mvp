@@ -13,7 +13,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.variable}>
-        <main className={"max-w-360 mx-auto"}>{children}</main>
+        <main className={"mx-auto max-w-360"}>{children}</main>
       </body>
       <PrismicPreview repositoryName={repositoryName} />
     </html>

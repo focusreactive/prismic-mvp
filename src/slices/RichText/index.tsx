@@ -28,7 +28,7 @@ type RichTextProps = SliceComponentProps<Content.RichTextSlice>;
  */
 const RichText: FC<RichTextProps> = ({ slice }) => {
   return (
-    <section className={"max-w-150 prose"}>
+    <section className={"prose max-w-150"}>
       <PrismicRichText field={slice.primary.content} components={components} />
     </section>
   );
