@@ -90,7 +90,11 @@ export type HeaderDocument<Lang extends string = string> =
     Lang
   >;
 
-type PageDocumentDataSlicesSlice = TableSlice | AccordionSlice | RichTextSlice;
+type PageDocumentDataSlicesSlice =
+  | CarouselSlice
+  | TableSlice
+  | AccordionSlice
+  | RichTextSlice;
 
 /**
  * Content for Page documents
@@ -293,12 +297,12 @@ export interface CarouselSliceDefaultPrimaryItemsItem {
   /**
    * Content field in *Carousel → Default → Primary → Items*
    *
-   * - **Field Type**: Text
+   * - **Field Type**: Rich Text
    * - **Placeholder**: *None*
    * - **API ID Path**: carousel.default.primary.items[].content
-   * - **Documentation**: https://prismic.io/docs/field#key-text
+   * - **Documentation**: https://prismic.io/docs/field#rich-text-title
    */
-  content: prismic.KeyTextField;
+  content: prismic.RichTextField;
 
   /**
    * Link field in *Carousel → Default → Primary → Items*

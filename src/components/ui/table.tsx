@@ -80,6 +80,7 @@ function TableHead({ className, ...props }: React.ComponentProps<"th">) {
 
 function TableCell({
   className,
+  nowrap,
   ...props
 }: React.ComponentProps<"td"> & { nowrap?: boolean }) {
   return (
@@ -87,7 +88,7 @@ function TableCell({
       data-slot="table-cell"
       className={cn(
         "p-2 align-middle [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]",
-        { "whitespace-nowrap": props.nowrap },
+        { "whitespace-nowrap": nowrap },
         className,
       )}
       {...props}
