@@ -6,6 +6,7 @@ import {
   type SliceComponentProps,
   type JSXMapSerializer,
 } from "@prismicio/react";
+import { Section } from "@/components/ui/section";
 
 const components: JSXMapSerializer = {
   hyperlink: ({ node, children }) => {
@@ -28,9 +29,14 @@ type RichTextProps = SliceComponentProps<Content.RichTextSlice>;
  */
 const RichText: FC<RichTextProps> = ({ slice }) => {
   return (
-    <section className={"prose max-w-150"}>
-      <PrismicRichText field={slice.primary.content} components={components} />
-    </section>
+    <Section>
+      <div className={"prose max-w-none"}>
+        <PrismicRichText
+          field={slice.primary.content}
+          components={components}
+        />
+      </div>
+    </Section>
   );
 };
 
