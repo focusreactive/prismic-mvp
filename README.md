@@ -1,38 +1,86 @@
-# Prismic + Next.js Minimal Starter
+# Prismic + Next.js MVP
 
-Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text slice, a homepage, and a dynamic page.
+This is a modern web application built with Next.js and Prismic CMS, featuring a component-based architecture with shadcn/ui, Radix UI primitives, and styled with Tailwind CSS.
 
+- **Tech Stack**: Next.js, Prismic CMS, TypeScript, Tailwind CSS, shadcn/ui, Radix UI
 - **Demo**: [Open live demo][live-demo]
-- **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
+- **Prismic Documentation**: [Prismic Next.js Documentation][prismic-docs]
 
-&nbsp;
+## 🛠️ Project Overview
 
-![Website screenshot](https://user-images.githubusercontent.com/31219208/228821412-fdde92b2-c13c-4287-b799-611fa96a5fd6.png)
+This project is a modern website built with:
 
-&nbsp;
+- **[Next.js 15](https://nextjs.org/)**: React framework with App Router and Server Components
+- **[Prismic CMS](https://prismic.io/)**: Headless CMS for content management
+- **[TypeScript](https://www.typescriptlang.org/)**: Type-safe JavaScript
+- **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework
+- **[shadcn/ui](https://ui.shadcn.com/)**: Re-usable UI components
+- **[Radix UI](https://www.radix-ui.com/)**: Unstyled, accessible UI primitives
+- **[Embla Carousel](https://www.embla-carousel.com/)**: Carousel component used for sliders
 
-## 🚀 Quick Start
+## 🚀 Getting Started
 
-To start a new project using this starter:
+### Prerequisites
 
-1. Visit <https://prismic.io/dashboard>.
-2. Create a new Prismic repository by selecting **Next.js**.
-3. Select the **Minimal starter**.
-4. Fill out your repository details and continue with the steps given in Prismic.
+- Node.js 18.17.0 or later
+- npm or yarn or pnpm
 
-When you're ready to start your project, run the following command:
+### Installation
 
 ```sh
-npm run dev
+# Clone the repository
+git clone <repository-url>
+cd prismic-mvp-fr
+
+# Install dependencies
+npm install
 ```
 
-## How to use your project
+### Available Scripts
 
-To edit the content of this project, go to [prismic.io/dashboard](https://prismic.io/dashboard), click on the repository for this website, and start editing.
+```sh
+# Development
+npm run dev         # Run both Next.js and Slice Machine concurrently
+npm run next:dev    # Run Next.js development server with turbopack
+npm run slicemachine # Run Slice Machine for Prismic content modeling
+
+# Build and Production
+npm run build       # Build the Next.js application
+npm run start       # Start the production server
+
+# Code Quality
+npm run lint        # Run ESLint to check code quality
+npm run check-types # Run TypeScript type checking
+npm run format      # Format code with Prettier
+```
+
+## 📋 Project Structure
+
+- `/src/app/`: Next.js App Router pages and layouts
+- `/src/components/`: Reusable React components
+  - `/src/components/ui/`: shadcn/ui components built on Radix UI
+- `/src/slices/`: Prismic slice components
+- `/customtypes/`: Prismic custom type definitions
+- `/src/lib/`: Utility functions and helpers
+- `/src/prismicio.ts`: Prismic client configuration
+
+## 🧩 Features
+
+- **Header and Footer Components**: Consistent header and footer across all pages
+- **Slice Components**:
+  - Accordion: Collapsible content sections
+  - Carousel: Image and content slider
+  - RichText: Rich text content blocks
+  - Table: Structured data display
+- **Dynamic Pages**: Route-based dynamic page rendering from Prismic
+- **UI Components Library**: shadcn/ui components with Tailwind styling
+- **TypeScript Integration**: Full type safety with Prismic types
+
+## 🔄 Content Management
 
 ### Create a page
 
-To create a page, click on the green pencil icon, then select **Page**.
+To create a page, go to [prismic.io/dashboard](https://prismic.io/dashboard), click on the repository for this website, and select **Page**.
 
 Pages are made of Slices. You can add and rearrange Slices to your pages.
 
@@ -41,16 +89,6 @@ Your new page will be accessible by its URL, but it won't appear on the website 
 ### Preview documents
 
 If you chose this starter when you created a new repository from the Prismic Dashboard, then your repository is preconfigured with previews on localhost. To change the preview configuration or add previews to your production or staging environments, see [Preview Drafts in Next.js](https://prismic.io/docs/technologies/preview-content-nextjs) in the Prismic documentation.
-
-### Customize this website
-
-This website is preconfigured with Prismic. It has three Prismic packages installed:
-
-- `@prismicio/client` provides helpers for fetching content from Prismic
-- `@prismicio/react` provides React components for rendering content from Prismic
-- `@prismicio/next` provides a wrapper component to configure Prismic previews
-
-These packages are already integrated and employed in this app. Take a look at the code to see how they're used.
 
 ### Edit the code
 
@@ -80,7 +118,7 @@ Learn more about how to use [TypeScript with Prismic](https://prismic.io/docs/ty
 
 ### Deploy to the web
 
-To put your project online, see [Deploy your Next.js App](https://prismic.io/docs/technologies/deploy-nextjs).
+This project is deployed on Vercel at [https://prismic-mvp.vercel.app/](https://prismic-mvp.vercel.app/) and automatically deploys on push to the main branch.
 
 ### Edit content models with Slice Machine
 
@@ -88,11 +126,11 @@ This project includes an application called Slice Machine, which generates model
 
 If you change or add to your Custom Types, you'll need to update your route handling to match. To learn how to do that, read [Define Paths in Next.js](https://prismic.io/docs/technologies/define-paths-nextjs).
 
-## Documentation
+## 📚 Documentation
 
 For the official Prismic documentation, see [Prismic's guide for Next.js][prismic-docs] or the [technical references for the installed Prismic packages](https://prismic.io/docs/technologies/technical-references).
 
-## License
+## 📄 License
 
 ```
 Copyright 2013-2022 Prismic <contact@prismic.io> (https://prismic.io)
@@ -115,3 +153,22 @@ limitations under the License.
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [nextjs]: https://nextjs.org/
 [live-demo]: https://nextjs-starter-prismic-minimal.vercel.app/
+
+## Credits
+
+This project was created at **FocusReactive** - the expert consultancy for the modern web. We specialize in helping clients beat the competition and accelerate business growth. With a deep expertise in headless CMS, NextJS, and eCommerce, we deliver cutting-edge solutions that prioritize your business goals.
+
+### Our Expertise
+
+- **Content-Centric Websites**: We have a deep experience building extendable, SEO optimized content and marketing websites with advanced CMS integrations and analytics.
+- **Headless eCommerce**: Our next-generation, content-rich, and performant online eCommerce websites come with end-to-end integrations to power your digital business.
+- **Headless CMS Consulting**: We offer multi-channel CMS development, modeling, customization, and support to help you manage your content seamlessly across various platforms.
+- **Web Performance**: Our experts can audit, transform the architecture, and optimize your website to meet the 100 SCORE Core Web Vitals for exceptional web performance.
+
+If you're looking for expertise in headless CMS, NextJS, or eCommerce, get in touch with **FocusReactive** today. Visit our website at [focusreactive.com](https://focusreactive.com/) to learn more about how we can help you accelerate your business growth.
+
+<image src="https://github.com/focusreactive/MVP-NextJS13-New-Features/assets/14885189/7c67e385-3f79-43e3-ba27-bada1ebddf03" width="500px"/>
+
+---
+
+_This project is licensed under the MIT License. © 2023 FocusReactive._
