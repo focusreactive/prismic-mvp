@@ -376,6 +376,11 @@
 							"text": "Need help getting started? Contact our wellness team at support@example.com",
 							"spans": [
 								{
+									"type": "strong",
+									"start": 0,
+									"end": 75
+								},
+								{
 									"type": "hyperlink",
 									"start": 56,
 									"end": 75,
@@ -384,11 +389,6 @@
 										"url": "mailto:support@example.com",
 										"target": "_self"
 									}
-								},
-								{
-									"type": "strong",
-									"start": 0,
-									"end": 75
 								}
 							]
 						},

@@ -5,7 +5,7 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  --font-sans-serif: var(--font-nunito);
+  --font-sans: var(--font-nunito);
   --font-display: var(--font-gloock);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
@@ -118,7 +118,7 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground font-sans-serif;
+    @apply bg-background text-foreground font-sans;
   }
   h1,
   h2,
