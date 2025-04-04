@@ -12,7 +12,7 @@ type SectionProps = {
 
 export function Section({ children, head }: SectionProps) {
   return (
-    <section className="mt-16 mb-20">
+    <section className="mt-16 mb-20 px-10">
       {head && (
         <div className={"prose mb-8"}>
           <h2>{head.title}</h2>
