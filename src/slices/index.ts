@@ -5,4 +5,5 @@ import dynamic from "next/dynamic";
 export const components = {
   accordion: dynamic(() => import("./Accordion")),
   rich_text: dynamic(() => import("./RichText")),
+  table: dynamic(() => import("./Table")),
 };

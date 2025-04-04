@@ -1,0 +1,98 @@
+{
+  "id": "table",
+  "type": "SharedSlice",
+  "name": "Table",
+  "description": "Table",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "text": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Text",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,strong,em,hyperlink,embed"
+          }
+        },
+        "table": {
+          "type": "Table",
+          "config": {
+            "label": "Table"
+          }
+        },
+        "mode": {
+          "type": "Select",
+          "config": {
+            "label": "Mode",
+            "placeholder": "",
+            "options": [
+              "wrap",
+              "nowrap"
+            ],
+            "default_value": "wrap"
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "nowrap",
+      "name": "Nowrap",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "text": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Text",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,strong,em,hyperlink,embed"
+          }
+        },
+        "table": {
+          "type": "Table",
+          "config": {
+            "label": "Table"
+          }
+        },
+        "mode": {
+          "type": "Select",
+          "config": {
+            "label": "Mode",
+            "placeholder": "",
+            "options": [
+              "wrap",
+              "nowrap"
+            ],
+            "default_value": "wrap"
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

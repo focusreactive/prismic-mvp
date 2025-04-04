@@ -90,7 +90,7 @@ export type HeaderDocument<Lang extends string = string> =
     Lang
   >;
 
-type PageDocumentDataSlicesSlice = AccordionSlice | RichTextSlice;
+type PageDocumentDataSlicesSlice = TableSlice | AccordionSlice | RichTextSlice;
 
 /**
  * Content for Page documents
@@ -277,6 +277,106 @@ export type AccordionSlice = prismic.SharedSlice<
 >;
 
 /**
+ * Item in *Carousel → Default → Primary → Items*
+ */
+export interface CarouselSliceDefaultPrimaryItemsItem {
+  /**
+   * Title field in *Carousel → Default → Primary → Items*
+   *
+   * - **Field Type**: Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: carousel.default.primary.items[].title
+   * - **Documentation**: https://prismic.io/docs/field#key-text
+   */
+  title: prismic.KeyTextField;
+
+  /**
+   * Content field in *Carousel → Default → Primary → Items*
+   *
+   * - **Field Type**: Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: carousel.default.primary.items[].content
+   * - **Documentation**: https://prismic.io/docs/field#key-text
+   */
+  content: prismic.KeyTextField;
+
+  /**
+   * Link field in *Carousel → Default → Primary → Items*
+   *
+   * - **Field Type**: Link
+   * - **Placeholder**: *None*
+   * - **API ID Path**: carousel.default.primary.items[].link
+   * - **Documentation**: https://prismic.io/docs/field#link-content-relationship
+   */
+  link: prismic.LinkField<string, string, unknown, prismic.FieldState, never>;
+}
+
+/**
+ * Primary content in *Carousel → Default → Primary*
+ */
+export interface CarouselSliceDefaultPrimary {
+  /**
+   * Title field in *Carousel → Default → Primary*
+   *
+   * - **Field Type**: Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: carousel.default.primary.title
+   * - **Documentation**: https://prismic.io/docs/field#key-text
+   */
+  title: prismic.KeyTextField;
+
+  /**
+   * Text field in *Carousel → Default → Primary*
+   *
+   * - **Field Type**: Rich Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: carousel.default.primary.text
+   * - **Documentation**: https://prismic.io/docs/field#rich-text-title
+   */
+  text: prismic.RichTextField;
+
+  /**
+   * Items field in *Carousel → Default → Primary*
+   *
+   * - **Field Type**: Group
+   * - **Placeholder**: *None*
+   * - **API ID Path**: carousel.default.primary.items[]
+   * - **Documentation**: https://prismic.io/docs/field#group
+   */
+  items: prismic.GroupField<Simplify<CarouselSliceDefaultPrimaryItemsItem>>;
+}
+
+/**
+ * Default variation for Carousel Slice
+ *
+ * - **API ID**: `default`
+ * - **Description**: Default
+ * - **Documentation**: https://prismic.io/docs/slice
+ */
+export type CarouselSliceDefault = prismic.SharedSliceVariation<
+  "default",
+  Simplify<CarouselSliceDefaultPrimary>,
+  never
+>;
+
+/**
+ * Slice variation for *Carousel*
+ */
+type CarouselSliceVariation = CarouselSliceDefault;
+
+/**
+ * Carousel Shared Slice
+ *
+ * - **API ID**: `carousel`
+ * - **Description**: Carousel
+ * - **Documentation**: https://prismic.io/docs/slice
+ */
+export type CarouselSlice = prismic.SharedSlice<
+  "carousel",
+  CarouselSliceVariation
+>;
+
+/**
  * Primary content in *RichText → Default → Primary*
  */
 export interface RichTextSliceDefaultPrimary {
@@ -321,6 +421,138 @@ export type RichTextSlice = prismic.SharedSlice<
   RichTextSliceVariation
 >;
 
+/**
+ * Primary content in *Table → Default → Primary*
+ */
+export interface TableSliceDefaultPrimary {
+  /**
+   * Title field in *Table → Default → Primary*
+   *
+   * - **Field Type**: Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: table.default.primary.title
+   * - **Documentation**: https://prismic.io/docs/field#key-text
+   */
+  title: prismic.KeyTextField;
+
+  /**
+   * Text field in *Table → Default → Primary*
+   *
+   * - **Field Type**: Rich Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: table.default.primary.text
+   * - **Documentation**: https://prismic.io/docs/field#rich-text-title
+   */
+  text: prismic.RichTextField;
+
+  /**
+   * Table field in *Table → Default → Primary*
+   *
+   * - **Field Type**: Table
+   * - **Placeholder**: *None*
+   * - **API ID Path**: table.default.primary.table
+   * - **Documentation**: https://prismic.io/docs/field#table
+   */
+  table: prismic.TableField;
+
+  /**
+   * Mode field in *Table → Default → Primary*
+   *
+   * - **Field Type**: Select
+   * - **Placeholder**: *None*
+   * - **Default Value**: wrap
+   * - **API ID Path**: table.default.primary.mode
+   * - **Documentation**: https://prismic.io/docs/field#select
+   */
+  mode: prismic.SelectField<"wrap" | "nowrap", "filled">;
+}
+
+/**
+ * Default variation for Table Slice
+ *
+ * - **API ID**: `default`
+ * - **Description**: Default
+ * - **Documentation**: https://prismic.io/docs/slice
+ */
+export type TableSliceDefault = prismic.SharedSliceVariation<
+  "default",
+  Simplify<TableSliceDefaultPrimary>,
+  never
+>;
+
+/**
+ * Primary content in *Table → Nowrap → Primary*
+ */
+export interface TableSliceNowrapPrimary {
+  /**
+   * Title field in *Table → Nowrap → Primary*
+   *
+   * - **Field Type**: Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: table.nowrap.primary.title
+   * - **Documentation**: https://prismic.io/docs/field#key-text
+   */
+  title: prismic.KeyTextField;
+
+  /**
+   * Text field in *Table → Nowrap → Primary*
+   *
+   * - **Field Type**: Rich Text
+   * - **Placeholder**: *None*
+   * - **API ID Path**: table.nowrap.primary.text
+   * - **Documentation**: https://prismic.io/docs/field#rich-text-title
+   */
+  text: prismic.RichTextField;
+
+  /**
+   * Table field in *Table → Nowrap → Primary*
+   *
+   * - **Field Type**: Table
+   * - **Placeholder**: *None*
+   * - **API ID Path**: table.nowrap.primary.table
+   * - **Documentation**: https://prismic.io/docs/field#table
+   */
+  table: prismic.TableField;
+
+  /**
+   * Mode field in *Table → Nowrap → Primary*
+   *
+   * - **Field Type**: Select
+   * - **Placeholder**: *None*
+   * - **Default Value**: wrap
+   * - **API ID Path**: table.nowrap.primary.mode
+   * - **Documentation**: https://prismic.io/docs/field#select
+   */
+  mode: prismic.SelectField<"wrap" | "nowrap", "filled">;
+}
+
+/**
+ * Nowrap variation for Table Slice
+ *
+ * - **API ID**: `nowrap`
+ * - **Description**: Default
+ * - **Documentation**: https://prismic.io/docs/slice
+ */
+export type TableSliceNowrap = prismic.SharedSliceVariation<
+  "nowrap",
+  Simplify<TableSliceNowrapPrimary>,
+  never
+>;
+
+/**
+ * Slice variation for *Table*
+ */
+type TableSliceVariation = TableSliceDefault | TableSliceNowrap;
+
+/**
+ * Table Shared Slice
+ *
+ * - **API ID**: `table`
+ * - **Description**: Table
+ * - **Documentation**: https://prismic.io/docs/slice
+ */
+export type TableSlice = prismic.SharedSlice<"table", TableSliceVariation>;
+
 declare module "@prismicio/client" {
   interface CreateClient {
     (
@@ -356,10 +588,21 @@ declare module "@prismicio/client" {
       AccordionSliceDefaultPrimary,
       AccordionSliceVariation,
       AccordionSliceDefault,
+      CarouselSlice,
+      CarouselSliceDefaultPrimaryItemsItem,
+      CarouselSliceDefaultPrimary,
+      CarouselSliceVariation,
+      CarouselSliceDefault,
       RichTextSlice,
       RichTextSliceDefaultPrimary,
       RichTextSliceVariation,
       RichTextSliceDefault,
+      TableSlice,
+      TableSliceDefaultPrimary,
+      TableSliceNowrapPrimary,
+      TableSliceVariation,
+      TableSliceDefault,
+      TableSliceNowrap,
     };
   }
 }
